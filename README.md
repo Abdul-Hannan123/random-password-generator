@@ -27,4 +27,4 @@ Generates strong and secure passwords on every click and allows easy copying wit
 1. Open `index.html` in your web browser.
 2. Click the **Generate Password** button to generate a new password.
 3. Click the **copy icon** to copy the password to your clipboard.
-4. Paste the password wherever you need
+4. Paste the password wherever you need it.
