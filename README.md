@@ -1,7 +1,7 @@
 # Random Password Generator
 
 A simple web-based Random Password Generator built using **HTML, CSS, and JavaScript**.  
-Generates strong and secure passwords on every click and allows easy copying with a click on an icon.
+Generates strong and secure passwords on every click and allows easy copying with a click
 
 ---
 
